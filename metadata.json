@@ -1,0 +1,6 @@
+{
+  "name": "Gapless - Controle de Ruptura",
+  "description": "Sistema completo para controle, registro e análise de ruptura de produtos em padaria delicatéssen com relatórios e gestão de equipes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
